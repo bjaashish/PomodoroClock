@@ -1,0 +1,162 @@
+
+
+p{
+  
+  display: inline-block;
+  
+}
+
+.border{
+
+  border: 4px solid rgb(140 135 141);
+  background: rgb(212, 212, 212);
+  margin: 10px;
+  width: auto;
+  height: 35%;
+
+}
+.inner{
+
+  border: 2px solid rgb(237, 236, 234);
+  height: 100%;
+  border-radius: 4px;
+  background: rgb(72, 67, 81);
+  /* margin: 10px; */
+
+}
+
+#h3{
+
+  margin-top: 30px;
+  color: rgb(255 255 255);
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#dot{
+  color: rgb(255, 255, 255);
+  margin-left: 10px;
+  margin-top: -5px;
+
+}
+
+.break{
+ margin-top: -89px;
+ float: right;
+ 
+}
+.break span{
+  padding-left: 18px
+}
+.break h5{
+  color: rgb(255, 255, 255);
+  margin-left: 0px;
+  margin-top: 18px;
+  font-size: 15px;
+  font-weight: 900;
+}
+#hb{
+  padding-right: 6px;
+}
+.session{
+  margin-top: -10px;
+}
+
+.session span,.break span{
+  color: rgb(255 255 255);
+  padding-top: 10px;
+}
+
+.session h5{
+  color: rgb(255, 255, 255);
+  margin-left: 10px;
+  margin-top: 10px;
+  font-size: 15px;
+  font-weight: 900;
+}
+#smin{
+  /* margin-left: 1px; */
+  padding-left: 20px;
+}
+.min{
+  margin-left: 9px;
+} 
+#bmini{
+  padding-left: 1px;
+}
+
+.Sarthmetic{
+  display: inline;
+  padding-left: 18px;
+  padding-top: 8px;
+
+}
+.color{
+  padding-top: 10px;
+}
+.Barthmetic{
+  display: inline;
+  float: right;
+  padding-right: 16px;
+  /* padding-top: 2px; */
+
+}
+
+.buttons{
+
+  
+  display: inline-flex;
+    /* margin-top: 16%; */
+    padding-top: 20px;
+    padding-left: 45px;
+    box-sizing: content-box;
+}
+
+#start{
+
+  height: 40px;
+  width: 55px;
+  margin-right: 10px;
+  
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  
+  
+}
+
+#reset{
+  
+  text-align: center;
+  width: 55px;
+  height: 40px;
+  border-radius: 5px;
+  background-color: black;
+  color: white;
+  /* margin-left: 95px; */
+
+}
+
+.outer{
+
+  height: 460px;
+    width: 220px;
+    margin: auto;
+    border: 3px solid rgb(9, 9, 8);
+    border-radius: 10px;
+    background: rgb(101, 50, 155);
+    padding: 10px;
+    margin-top: 30px;
+
+}
+
+.timer{
+
+  /* align-items: center; */
+  padding-top: 25%;
+  text-align: center;
+  font-weight: bold;
+  font-size:   x-large;
+
+}
